@@ -1,0 +1,8 @@
+{ "username": "GITHUB_USERNAME",
+  "PAT": "GITHUB_ACCESS_TOKEN",
+  "organizations": ["googlecloudplatform", "googleapis"],
+  "folder": "c:/GoogleRepos",
+  "overwrite": false,
+  "words": ["WORD_TO_FIND1", "WORD_TO_FIND2"],
+  "filetypes": [".c", ".cpp", ".go", ".java", ".js", ".md", ".py", ".sh", ".ts", ".txt"]
+}
